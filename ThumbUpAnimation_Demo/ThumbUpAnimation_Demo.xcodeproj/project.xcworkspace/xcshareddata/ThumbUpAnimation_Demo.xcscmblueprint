@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8007CC934C55D37EDC8BB7991B94AA6FC87A9124" : 9223372036854775807,
+    "249ED0C197B3D2704EF046567D300FA4CC1965C2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FBE54DA0-C493-45FD-8E70-AE1B00857BFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8007CC934C55D37EDC8BB7991B94AA6FC87A9124" : "",
+    "249ED0C197B3D2704EF046567D300FA4CC1965C2" : "..\/shuaiboshangcheng"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ThumbUpAnimation_Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ThumbUpAnimation_Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/pinet\/shuaiboshangcheng.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "249ED0C197B3D2704EF046567D300FA4CC1965C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/foolish-hourse\/ThumbUpAnimation_Demo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8007CC934C55D37EDC8BB7991B94AA6FC87A9124"
+    }
+  ]
+}

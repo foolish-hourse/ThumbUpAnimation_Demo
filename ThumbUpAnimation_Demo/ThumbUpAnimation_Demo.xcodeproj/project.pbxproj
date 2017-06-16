@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		170D65101EF4045C00959C4E /* UIView+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 170D650F1EF4045C00959C4E /* UIView+Animation.m */; };
 		171386111EF2B7F1000FBAF2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 171386101EF2B7F1000FBAF2 /* main.m */; };
 		171386141EF2B7F1000FBAF2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 171386131EF2B7F1000FBAF2 /* AppDelegate.m */; };
 		1713861A1EF2B7F1000FBAF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 171386181EF2B7F1000FBAF2 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		170D650E1EF4045C00959C4E /* UIView+Animation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Animation.h"; sourceTree = "<group>"; };
+		170D650F1EF4045C00959C4E /* UIView+Animation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Animation.m"; sourceTree = "<group>"; };
 		1713860C1EF2B7F1000FBAF2 /* ThumbUpAnimation_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThumbUpAnimation_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		171386101EF2B7F1000FBAF2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		171386121EF2B7F1000FBAF2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,6 +81,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		170D65041EF402B300959C4E /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				170D650E1EF4045C00959C4E /* UIView+Animation.h */,
+				170D650F1EF4045C00959C4E /* UIView+Animation.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
 		171386031EF2B7F0000FBAF2 = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +115,7 @@
 			children = (
 				171386121EF2B7F1000FBAF2 /* AppDelegate.h */,
 				171386131EF2B7F1000FBAF2 /* AppDelegate.m */,
+				170D65041EF402B300959C4E /* Category */,
 				B6F6D5941EF2DA32007E2B10 /* ViewController */,
 				171386181EF2B7F1000FBAF2 /* Main.storyboard */,
 				1713861B1EF2B7F1000FBAF2 /* Assets.xcassets */,
@@ -282,6 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				170D65101EF4045C00959C4E /* UIView+Animation.m in Sources */,
 				171386141EF2B7F1000FBAF2 /* AppDelegate.m in Sources */,
 				B6F6D59A1EF2DA54007E2B10 /* TestViewController.m in Sources */,
 				171386111EF2B7F1000FBAF2 /* main.m in Sources */,
